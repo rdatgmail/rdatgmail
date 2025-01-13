@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @rdatgmail
-- 👀 I’m interested in 3D modeling and visualization as applicable to Finite Element Anlysis software for enginnering simulation applications.
+Interested in IoT, sensors, AI enabled devices.
 
 <!---
 rdatgmail/rdatgmail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
